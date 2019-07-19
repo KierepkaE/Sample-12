@@ -1,2 +1,4 @@
-# Sample-12
-Course www.samurajprogramowania.pl
+# positioning exercise
+
+- CSS 
+- HTML
